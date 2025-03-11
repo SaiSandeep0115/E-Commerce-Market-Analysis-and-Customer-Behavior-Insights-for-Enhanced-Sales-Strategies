@@ -1,4 +1,4 @@
-# E-Commerce Market Analysis and Customer Behavior Insights for Enhanced Sales Strategies
+![E-Commerce Market Analysis](E-Commerce.png)
 
 ## Languages:
 - **Python**

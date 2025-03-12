@@ -2,6 +2,8 @@
 
 ## Languages:
 - **Python**
+- **SQL**
+- **R**
 
 ## Important Libraries:
 - **Pandas**
